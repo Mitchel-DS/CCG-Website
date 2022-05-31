@@ -1,0 +1,20 @@
+{
+  "name": "ccg-website",
+  "version": "2.0.0",
+  "description": "CCG website version 2.0 - Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitchel-DS/ccg-website.git"
+  },
+  "keywords": [],
+  "author": "Mitchel Staal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mitchel-DS/ccg-website/issues"
+  },
+  "homepage": "https://github.com/Mitchel-DS/ccg-website#readme"
+}
